@@ -8,3 +8,5 @@ points for each player using the LCD. Capacitance variations were detected using
 3. If the tone is 2000Hz, the first  player that presses its capacitor sensor loses a point. 
 4. The LCD displays the points for each player. 
 5. The first player to reach 5 points wins the game! 
+
+Other Contributers: Colin Pereira, Mohamed Salah
